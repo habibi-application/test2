@@ -40,7 +40,7 @@ const App =() => {
               />
             </View>
           </View>
-          <Text style={styles.text}>aaaaaa</Text>
+          <Text style={styles.text}>الباب الأول</Text>
           <Button title="سجل نفسك"
           color="#f194fc"
           onPress={() => alert('تم الضغط')}
